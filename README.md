@@ -10,4 +10,4 @@ frmOutput.cs --> End-user face for viewing the flag of choice
 
 Program.cs --> Runs the frmInput.cs initially
 
-(This is recognition that the star event called "Calculate5StarPoints" is not my code and belongs to ddanbe on https://www.daniweb.com/programming/software-development/code/360165/draw-any-star-you-want. I used his code as a background and tweaked it wherever needed).
+(This is recognition that the star event called "Calculate5StarPoints" is open-source code and not my code. It belongs to ddanbe on https://www.daniweb.com/programming/software-development/code/360165/draw-any-star-you-want. I used his code as a background and tweaked it wherever needed.)
