@@ -2,6 +2,7 @@
 Thank you for viewing my program. I created this program in just 48 hours and it is my first time dealing with graphics so I am very proud of it. All the information below gives you a better understanding of what some of the files do.
 
 ClassOfFlags.zip --> easy accessibility to open and run the program in your IDE
+
 Flags.cs --> Class of Flags that can be copied and applied to any program 
 
 frmInput.cs --> End-user face for choosing a flag to view
